@@ -35,8 +35,11 @@ module.exports = function(config) {
       'bower_components/angular-ui-router/release/angular-ui-router.js',
       'bower_components/angular-bootstrap/ui-bootstrap-tpls.js',
       'bower_components/angular-base64/angular-base64.js',
-      'bower_components/angular-base64/angular-base64.min.js',
       'bower_components/angular-mocks/angular-mocks.js',
+      'bower_components/semantic/dist/semantic.js',
+      'bower_components/angular-semantic-ui/dist/angular-semantic-ui.js',
+      'bower_components/angular-semantic-ui/dist/angular-semantic-ui.min.js',
+      'bower_components/webcomponentsjs/webcomponents.js',
       // endbower
       'app/scripts/**/*.js',
       'test/mock/**/*.js',
